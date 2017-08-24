@@ -1,2 +1,5 @@
 # hello_world
-Learning to use GitHub
+
+Hello Humans!
+
+Just practicing here, nothing to see!
